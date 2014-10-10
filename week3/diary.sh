@@ -7,8 +7,13 @@
 # Description : Reading input
 # Options
 
-echo "The data you have enterd is appended to your diary text file."
-
 read firstline
+current_time=$(date "+%Y.%m.%d-%H.%M.%S")
+echo $firstline: $current_time >> Diary.txt
 
-$firstline >> Diary.txt
+
+
+echo "The data you have enterd is send to your diary."
+
+
+
