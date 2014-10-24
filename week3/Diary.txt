@@ -1,2 +1,4 @@
 Day1 Working on adding text to my diary.
 Day 1, I have added a timestap to my file.,2014.10.10-15.47.10
+Stephen howell was here today.: 2014.10.24-15.40.12
+diary is working: 2014.10.24-15.44.28
